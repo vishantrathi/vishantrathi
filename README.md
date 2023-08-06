@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning frontend
 - 🌱 I’m currently learning HTML,CSS
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me LinkedIn
--                     Instagtram https://www.linkedin.com/in/vishant-rathi-b50a18236/
+- 📫 How to reach me 
+-                     LinkedIn https://www.linkedin.com/in/vishant-rathi-b50a18236/
                       Email vishantrathigurjar@gmail.com
 -                     Instagram @ivishantchoudhary_
 
