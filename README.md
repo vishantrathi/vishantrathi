@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishant Rathi</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">I am an organized and creative undergraduate with excellent communication, problem-solving, and leadership skills. I am passionate about exploring opportunities in Computer Science Engineering while efficiently developing high quality projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishantrathi&label=Profile%20views&color=0e75b6&style=flat" alt="vishantrathi" /> </p>
 
