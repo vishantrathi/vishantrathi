@@ -1,3 +1,5 @@
+![codeing child](https://github.com/user-attachments/assets/2938e73a-85ce-41d4-80a4-d8d393a507ca)
+
 # 💫About Me :
 I am an organized and creative undergraduate with excellent communication, problem-solving, and leadership skills. As a Front End Developer based in India 🇮🇳, I am passionate about exploring opportunities in Computer Science Engineering while efficiently developing high-quality projects. I have a strong enthusiasm for open-source, coding, and web technologies ❤️. Besides my studies, I actively create and contribute to open-source projects, which helps me learn and grow as a developer while supporting the open-source community 🌟.
 
