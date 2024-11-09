@@ -12,4 +12,5 @@ I am an organized and creative undergraduate with excellent communication, probl
 ![](https://github-readme-stats.vercel.app/api?username=vishantrathi&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishantrathi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishantrathi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br>
 [![](https://visitcount.itsvg.in/api?id=vishantrathi&icon=0&color=0)](https://visitcount.itsvg.in)
