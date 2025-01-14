@@ -1,6 +1,7 @@
 ![codeing child](https://github.com/user-attachments/assets/2938e73a-85ce-41d4-80a4-d8d393a507ca)
 
 ## 🌐Socials
+**Want to know more about me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishantrathi)
 
 # 📊GitHub Stats :
