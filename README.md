@@ -7,4 +7,4 @@
 # 📊GitHub Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishantrathi&layout=donut-vertical)](https://github.com/vishnatrathi/github-readme-stats)
 ![vishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishantrathi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishantrathi&theme=buefy&hide_border=true" alt="vishantrathi's GitHub Stats" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishantrathi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
