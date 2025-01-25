@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishantrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishantrathi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vishant-rathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vishant-rathi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/28126672/vishant-rathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vishant-rathi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vishantrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishantrathi" height="30" width="40" /></a>
 </p>
 
